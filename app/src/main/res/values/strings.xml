@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppWidgetTest</string>
+    <string name="test_wiget_text">Este es el texto de un widget!! \n Refrescado %1$s veces!</string>
+</resources>
